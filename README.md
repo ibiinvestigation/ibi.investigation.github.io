@@ -1,1 +1,1 @@
-# ibi.investigation.github.io
+# ibiinvestigation.github.io
